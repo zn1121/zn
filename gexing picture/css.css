@@ -1,0 +1,13 @@
+.image{float: left;border:1px solid #666;width: 202px;height: 140px,
+      margin-right:2px;}
+img{opacity:0.5;}
+.decs{font-family: "黑体"; text-align: center;}
+.img hover:{opacity: 1.0;}
+div.image img{
+	display: inline;
+	margin: 3px;
+}
+div.image a:hover img{
+	border: 1px solid #333;
+	opacity: 1.0;
+}
