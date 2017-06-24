@@ -1,0 +1,62 @@
+body{background-size:cover;}
+a{font-size: 16px;}
+a:hover{color:#f30;text-decoration: underline;}
+a:visit{color: #ccc;}
+#menu{width: 1300px;height: 200px;float: left;margin-left:300px;position: relative;
+		background-image: url(images/center7.jpg);}
+#logo{float: left;background-repeat: no-repeat;margin-top:18px }
+#nav{margin-top:50px; 
+	float: left;
+	width: 900px;
+	height: 100px;
+	font-size: 12px;
+}
+#nav ul{list-style-type:none;padding:0px;margin:0px;overflow: hidden;}
+#nav ul li{float: left;}
+#nav ul li a{
+	margin-left: 20px;
+	background-image: url(images/aaa.jpg);
+	width:130px;
+	text-decoration:none;
+	height:50px;
+	line-height:50px;
+	font-weight:bold;
+	color:#fff;
+	float:left;
+	text-align: center;
+}
+#nav ul li a:hover{
+	background-image:url(images/nav.png);
+	background-size: 200px 50px;
+	text-align: center;
+	color:#FFFF00;
+	font-weight:bold;
+}
+.sou{float: left;margin-top:60px;margin-left: 20px;}
+.sou a{color:#fff;}
+#aaa{width: 1200px;height: 30px;float: left;margin-left: 300px;}
+#aaa h1{font-size: 14px;float: left;}
+#aaa a{font-size: 14px;float: left;margin-top:9px;text-decoration: none;font-family:"黑体";}
+
+
+
+
+#ttt{width: 700px;height: auto;border: 1px solid #ccc;float: left;position: relative;margin-left: 300px;}
+#ttt h1 a{text-align: center;color: #f00;font-size: 26px;text-decoration: none;font-family: "黑体"}
+#ttt h2{color: #ccc;font-size: 12px;text-align: center;}
+.rrr{width: 660px;float: left;margin: 20px}
+.rrr p{font-size: 18px;color: #000;font-family: "黑体";line-height: 25px;}
+.rrr img{float: left;margin-top: 40px;margin-bottom: 40px}
+.rrr h3{margin-top: 40px;margin-bottom: 40px;}
+.rrr p a{font-size: 8px;}
+.rrr p a:hover{color: #ff0000;text-decoration:underline;}
+#vvv{width:470px;height:auto;border: 1px solid #ccc;float: right;position: relative;margin-right: 300px; }
+.t{width: 450px;height: auto;float: right;margin: 10px}
+.y{width: 450px;height: auto;float: right;margin: 10px}
+.y ul li a{color: #0cf;font-size: 18px;line-height: 30px;}
+.y ul li a:hover{text-decoration: underline;}
+
+
+#footer{background-color: #000;width: 100%;height: 200px;margin-top:200px;float: left; }
+#ccc{text-align: center;}
+#ccc a{color: #fff;font-size: 16px;line-height: 50px;}
